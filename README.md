@@ -1,2 +1,3 @@
 myfirstrepo
 ===========
+random thoughts
